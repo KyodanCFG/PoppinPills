@@ -11,7 +11,7 @@ This mod allows you to adjust the amount of uses for Painkillers and Ibuprofen!
 
 ## Info
 
-- By default, this mod will enable itself, and Painkillers will have 10 max uses (default 4 uses), and Ibuprofen will have 26 max uses (default 12 uses)
+- By default, this mod will enable itself, and Painkillers will have `10` max uses (default `4` uses), and Ibuprofen will have `26` max uses (default `12` uses)
 
 ## Installation
 
