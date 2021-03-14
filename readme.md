@@ -3,6 +3,8 @@ Poppin' Pills (for JET v1.1.0)
 Version `1.1.0` (`03.13.2021`)
 By Kyodan
 
+![Screenshot](cover.png)
+
 This mod allows you to adjust the amount of uses for Painkillers and Ibuprofen!
 
 **Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/PoppinPills/releases**
